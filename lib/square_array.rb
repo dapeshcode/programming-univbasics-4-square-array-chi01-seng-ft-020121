@@ -6,8 +6,8 @@ def square_array(array)
     x = array[count]
     new_nums.push(x**2)
     end 
-  new_nums 
+  p new_nums 
 end
 
 test = [1, 2, 3]
-p square_array(test)
+square_array(test)
