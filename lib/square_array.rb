@@ -10,3 +10,5 @@ def square_array(array)
   p new_nums 
 end
 
+test = [1, 2, 3]
+square_array(test)
