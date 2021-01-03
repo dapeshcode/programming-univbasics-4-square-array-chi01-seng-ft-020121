@@ -5,6 +5,4 @@ def square_array(array)
     new_nums.push(array[count]**2)
   end 
   new_nums
-  
-
 end
