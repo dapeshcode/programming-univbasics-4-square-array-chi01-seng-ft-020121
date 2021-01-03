@@ -11,4 +11,4 @@ def square_array(array)
 end
 
 test = [1, 2, 3]
-def square_array()
+def square_array(test)
