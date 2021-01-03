@@ -1,11 +1,11 @@
 
 def square_array(array)
   count = 0
-  new_nums = []
+  nums_sqrd = []
   while count < array.length do
     x = array[count]
-    new_nums.push(x**2)
+    nums_sqrd.push(x**2)
     count += 1
     end 
-  new_nums 
+  nums_sqrd 
 end
