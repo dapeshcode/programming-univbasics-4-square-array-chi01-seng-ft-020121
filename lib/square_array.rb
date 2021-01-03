@@ -7,7 +7,6 @@ def square_array(array)
     new_nums.push(x**2)
     end 
   new_nums 
-  
 end
 
 test = [1, 2, 3]
