@@ -7,5 +7,5 @@ def square_array(array)
     new_nums.push(x**2)
     count += 1
     end 
-  p new_nums 
+  new_nums 
 end
